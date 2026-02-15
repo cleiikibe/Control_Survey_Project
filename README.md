@@ -1,4 +1,4 @@
-# COMPUTATION SYSTEM
+# COORDINATE COMPUTATION SYSTEM
 This project deals with computation of provisional coordinates and final coordinates of unknown points in triangulation. Provision of horizontal controls by Triangulation Method.
 A professional Python implementation for precise coordinate determination in land surveying using classical *intersection/resection* and *cut computation* methods. Designed for surveyors, geomatics engineers, and students requiring rigorous field computation workflows.
 
